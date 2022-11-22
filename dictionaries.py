@@ -1,0 +1,1 @@
+casas = {"playa", "lajas", "novia","padre"} 
